@@ -1,0 +1,5 @@
+{
+  "cmake.environment": {
+    "PICO_SDK_PATH": "~/Source/lee-dohm/pico/pico-sdk"
+  }
+}
